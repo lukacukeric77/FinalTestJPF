@@ -13,5 +13,3 @@ the firm was founded.
 Technical requirements:
 - None for running
 - Any editor for reading (advise Notepad++)
-
-Running
